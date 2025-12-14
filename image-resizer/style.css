@@ -1,0 +1,12 @@
+body {
+  font-family: system-ui;
+  padding: 2rem;
+  max-width: 600px;
+  margin: auto;
+}
+
+canvas {
+  display: block;
+  margin-top: 1rem;
+  max-width: 100%;
+}
