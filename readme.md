@@ -28,6 +28,9 @@ These tools are:
 
 ---
 
+![CleanShot 2025-12-14 at 20 55 51@2x](https://github.com/user-attachments/assets/d726fb2c-ac30-41e0-b6b3-f888b1011d64)
+
+
 ## Included Tools
 
 | Tool           | Description                       |
